@@ -3,6 +3,7 @@ Atividades do curso "Fundamentos de Engenharia de Dados" da DataScienceAcademy.
 
 
 ## Atividades
+- Demonstração Prática 4 - Criação de Pipeline de Extração, Limpeza, Transformação e Enriquecimento de Dados.
 
 
 ## Referências
