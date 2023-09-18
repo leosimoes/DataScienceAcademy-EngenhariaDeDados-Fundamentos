@@ -3,6 +3,12 @@ Atividades do curso "Fundamentos de Engenharia de Dados" da DataScienceAcademy.
 
 
 ## Atividades
+- Demonstração Prática 1: Funcionamento de um Sistema Distribuído
+    * Definindo o Ambiente: Hadoop HDFS, cluster com 4 máquinas (1 master e 3 slaves);
+    * Carga de Dados: a replicação do bloco vai depender do fator de replicação;
+    * Comportamento do Sistema Distribuído quando um servidor fica indisponível: 
+      tolerância a falhas já que pode usar outra máquina, se uma não estiver disponivel;
+    * Acceso aos Dados.
 - Demonstração Prática 4 - Criação de Pipeline de Extração, Limpeza, Transformação e Enriquecimento de Dados.
 
 
