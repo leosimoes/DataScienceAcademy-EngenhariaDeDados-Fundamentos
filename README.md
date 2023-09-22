@@ -13,6 +13,11 @@ Atividades do curso "Fundamentos de Engenharia de Dados" da DataScienceAcademy.
     * Usamos o Data LakeHouse para armazenar um JSON e carregar dados semi-estruturados e analisá-los no formato tabular;
     * Airbyte (Ferramenta ELT) -> Amazon S3 (Data Lake) -> Dremio;
     * Airbyte pega o arquivo JSON da origin e carrega no Amazon S3, onde o Dremio busca e prepara os dados e retorna-os em formato tabular.
+- Demonstração Prática 3 - Linhagem de Dados de Data Warehouse com SQLFlow.
+    * Acessar via https://www.gudusoft.com/ ou https://sqlflow.gudusoft.com/#/
+    * Use a versão completa por um período de teste que roda no navegador;
+    * O software permite visualizar o histórico de mudanças nas tabelas a partir dos scripts SQL;
+    * Crie Views para consultas específicas;
 - Demonstração Prática 4 - Criação de Pipeline de Extração, Limpeza, Transformação e Enriquecimento de Dados.
 
 
